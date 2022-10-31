@@ -1,6 +1,6 @@
 # Big Data Infrastructures & Technology Materials
 
-This repository contains the materials used in the Big Data Infrastructures & Technology course.
+This repository contains the materials used in the Big Data Infrastructure & Technology course.
 
 
 
