@@ -2,8 +2,6 @@
 
 This repository contains the materials used in the Big Data Infrastructure & Technology course.
 
-
-
 ## Assignment 1
 
 https://docs.google.com/document/d/1dTUuf5k8oLZD2bpzHiorq-06IsJhhmK4JBMl7l4_gx0/edit?usp=sharing
